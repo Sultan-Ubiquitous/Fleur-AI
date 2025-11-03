@@ -16,7 +16,7 @@ export default function Home() {
       </div>
       <div className="absolute bottom-5 mx-auto left-1/2 bg-black text-white -translate-x-1/2 shadow-md focus:shadow-lg w-full max-w-3xl rounded-2xl border-2 border-gray-500 pb- ">
         <form className="flex flex-col ">
-        <Textarea placeholder="Start typing dawg...."
+        <Textarea placeholder="Start typing...."
         className="flex-1 resize-none bg-transparent border-none shadow-none focus-visible:ring-0 focus-visible:ring-offset-0 max-h-[144px] overflow-y-auto custom-scrollbar"
         rows={1}/>
         <div className="w-full  flex justify-end">
